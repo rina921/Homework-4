@@ -1,0 +1,53 @@
+header {
+	border: 8px solid red;
+	background: #ff9999;
+	margin: auto;
+	float: left;
+	width: 940px;
+	height: 145px;
+	line-height: 20px;
+	font-size: 13px;
+}
+
+.placeholder {
+	padding: 12px;
+	
+}
+
+#main {
+	border: 8px solid yellow;
+	background: #ffffb3;
+	margin: auto;
+	float: left;
+	width: 550px;
+	height: 145px;
+	line-height: 20px;
+	font-size: 13px;
+}
+
+
+aside {
+	border: 8px solid green;
+	background: #8cd98c;
+	margin: auto;
+	float: left;
+	width: 375px;
+	height: 145px;
+	line-height: 20px;
+	font-size: 13px;
+}
+
+footer {
+	border: 8px solid blue;
+	background: #9999ff;
+	margin: auto;
+	float: left;
+	width: 940px;
+	height: 145px;
+	line-height: 20px;
+	font-size: 13px;
+ 
+}
+
+
+

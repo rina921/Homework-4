@@ -1,0 +1,46 @@
+body {
+	margin: 5px;
+	font-weight: bold;
+}
+
+header {
+	border: 1px solid #8c8c8c;
+	background: #cccccc;
+	margin: 20px 40px;
+	width: 600px;
+	height: 40%;
+	padding: 40px;
+	float: center;
+}
+
+#main {
+	border: 1px solid #8c8c8c;
+	background: #cccccc;
+	margin: 10px 40px;
+	width: 370px;
+	height: 230px;
+	padding: 30px;
+	float: left;
+
+}
+
+aside {
+	border: 1px solid #8c8c8c;
+	background: #cccccc;
+	margin-top: -272px;
+	margin-right: 450px; 
+	width: 170px;
+	height: 200px;
+	padding: 30px;
+	float: right;
+}
+
+nav {
+	border: 1px solid #8c8c8c;
+	background: #cccccc;
+	margin: 320px 40px;
+	width: 600px;
+	height: 40%;
+	padding: 40px;
+	float: right;
+}
